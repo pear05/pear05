@@ -5,13 +5,13 @@
 <h3 align="center">A passionate Mobile and Web developer from Kenya</h3>
 
 
-- 🌱 I’m currently learning **Python , React Native, Bug Bounty and Cyber Sec**
+- 🌱 I’m currently learning **React Native and Cyber Security**
 
 - 💬 Ask me about **Anything that crosses your mind...**
 
 - 📫 How to reach me **waswaustin@gmail.com**
 
-- ⚡ Fun fact **Fun Fact**
+- ⚡ Fun fact **I am a Fun Fact**
 
 #
 ## 🌐 Socials:
